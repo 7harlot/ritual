@@ -1,0 +1,2 @@
+# ritual
+Privacy Settings 
